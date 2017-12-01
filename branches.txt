@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 1. Erste Zeile feature1 Branch
 2. Erste Zeile feature2 Branch
 3. Erste Zeile Master Branch
+=======
+<<<<<<< HEAD
+1. Erste Zeile feature1 Branch
+2. Erste Zeile feature2 Branch
+=======
+1. Zeile feature1
+>>>>>>> feature1
+>>>>>>> feature2
+
+Finale form
+
